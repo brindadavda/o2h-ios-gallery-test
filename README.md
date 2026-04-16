@@ -72,7 +72,6 @@ This project uses Swift Package Manager dependencies:
 
    ```bash
    git clone https://github.com/brindadavda/o2h-ios-gallery-test.git
-   cd GalleryApp
    ```
 
 2. Open the project in Xcode:
